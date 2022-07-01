@@ -1,0 +1,2 @@
+# theLottery
+ simple lottery game
